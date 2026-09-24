@@ -1,0 +1,9 @@
+# Secrets
+.env
+*.env
+secret.env
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+Dataset/transaction_bank_data.csv
